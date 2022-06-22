@@ -4,6 +4,7 @@
 		"name": "patikadev.egitim",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
+	## JsonPlaceHolder Post Api üzerinden Listeleme İşlemi Gerçekleştirildi
 	"item": [
 		{
 			"name": "Listlemele",
@@ -25,6 +26,7 @@
 			},
 			"response": []
 		},
+## JsonPlaceHolder Post Api üzerinden Güncelleme İşlemi Gerçekleştirildi
 		{
 			"name": "Post Id",
 			"request": {
@@ -55,6 +57,7 @@
 			},
 			"response": []
 		},
+## JsonPlaceHolder Post Api üzerinden Ekleme İşlemi Gerçekleştirildi
 		{
 			"name": "Post Ekleme",
 			"request": {
@@ -84,6 +87,7 @@
 			},
 			"response": []
 		},
+## JsonPlaceHolder Post Api üzerinden Tek Getirme İşlemi Gerçekleştirildi
 		{
 			"name": "Tek Getirme",
 			"request": {
